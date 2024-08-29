@@ -1,7 +1,7 @@
-#**Pregnancy Data Analysis**
+# **Pregnancy Data Analysis**
 This repository contains a comprehensive data analysis project focused on pregnancy-related data. The analysis is conducted using Microsoft Excel with advanced features such as macros (VBA) to automate processes and enhance data interaction.
 
-##Table of Contents
+## Table of Contents
 - Project Overview
 - Features
 - Data Sources
@@ -11,20 +11,20 @@ This repository contains a comprehensive data analysis project focused on pregna
 - Contributing
 - License
   
-##**Project Overview**
+## **Project Overview**
 The Pregnancy Data Analysis project aims to explore and analyze various datasets related to pregnancy. The analysis includes statistical insights, trends, and visualization of the data to help understand different factors affecting pregnancy outcomes.
 
-##**Features**
+## **Features**
 - Data Cleaning: Removing inconsistencies and preparing data for analysis.
 - Statistical Analysis: Performing descriptive and inferential statistics to draw meaningful insights.
 - Visualizations: Creating charts and graphs to visually represent the data and trends.
 - Automated Processes: Using Excel macros (VBA) to automate repetitive tasks, making the analysis more efficient.
 - Interactive Dashboard: A user-friendly dashboard that provides an overview of the key findings.
 - 
-##**Data Sources**
+## **Data Sources**
 The data used in this analysis is sourced from various publicly available datasets related to pregnancy. The exact sources of the data are detailed within the Excel file under the 'Data' sheet.
 
-##**Analysis**
+## **Analysis**
 The analysis performed in this project covers several key aspects:
 
 -  Pregnancy Duration: Analysis of typical pregnancy durations.
@@ -32,7 +32,7 @@ The analysis performed in this project covers several key aspects:
 - Demographic Factors: How age, location, and other demographic factors affect pregnancy.
 - Health Indicators: Exploring the impact of health indicators on pregnancy outcomes.
   
-##**How to Use**
+## **How to Use**
 Download the Repository: Clone or download this repository to your local machine.
 
 - bash
@@ -46,12 +46,12 @@ git clone https://github.com/SATAN07/Pregnancy-Data-Analysis.git
 
 - Run the Macros: Use the pre-built macros to perform additional analyses or refresh the data.
 
-##**Requirements**
+## **Requirements**
 - Microsoft Excel: This project requires Microsoft Excel (version 2016 or later) with support for macros (VBA).
 - Basic Knowledge of Excel: Familiarity with Excel functions and features will help in navigating and using this analysis file.
   
-###Contributing
+### Contributing
 Contributions are welcome! If you would like to contribute to this project, please fork the repository and submit a pull request.
 
-##**License**
+## **License**
 This project is licensed under the MIT License - see the LICENSE file for details.
